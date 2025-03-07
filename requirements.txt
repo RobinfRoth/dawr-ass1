@@ -5,3 +5,5 @@ openpyxl
 matplotlib
 requests
 beautifulsoup4
+opencv-python
+matplotlib
