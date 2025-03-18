@@ -7,3 +7,6 @@ requests
 beautifulsoup4
 opencv-python
 matplotlib
+pyproj
+folium
+geopandas
