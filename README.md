@@ -1,5 +1,7 @@
 # Data Wrangling - Assignment 1
 
+[Code on GitHub](https://github.com/RobinfRoth/dawr-ass1)
+
 ## Load Persisted Data
 
 You can download the persisted data from [GitHub](https://github.com/RobinfRoth/dawr-ass1/releases/download/data/raw_data.zip).
