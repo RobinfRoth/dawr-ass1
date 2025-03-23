@@ -59,4 +59,16 @@ Windows:
 pip install -r requirements.txt
 ```
 
-5. You can now run the Jupyter notebook. Make sure you select the `.venv` kernel to use the venv in the notebook.
+5. Finally, configure the `ipython`-kernel to use the venv, by running:
+
+    MacOS / Linux:
+    ```bash
+    python3 -m ipykernel install --user --name='.venv'
+    ```
+
+    Windows:
+    ```powershell
+    python -m ipykernel install --user --name=.venv
+    ```
+
+6. You can now run the Jupyter notebook. Make sure you select the `.venv` kernel to use the venv in the notebook.
