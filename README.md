@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
     MacOS / Linux:
     ```bash
-    python3 -m ipykernel install --user --name='.venv'
+    python3 -m ipykernel install --user --name=.venv
     ```
 
     Windows:
